@@ -1,0 +1,27 @@
+.intro{
+  text-align: center;
+  display: grid;
+  margin: 0 auto;
+  width: 500px;
+
+  h1{
+    margin: 25px 0;
+  }
+
+  p{
+    border: solid 1px red;
+    padding: 10px;
+    margin: 10px;
+  }
+
+  a{
+    margin-top: 25px;
+  }
+
+  .bernard{
+    position: absolute;
+    width: 200px;
+    bottom: 10%;
+    right: 20%;
+  }
+}
